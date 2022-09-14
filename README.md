@@ -3,7 +3,7 @@
 &nbsp;
 
 ## Table of Contents
-* [Raspberry_Pi_Assignment_Template](#Raspberry_Pi_Assignment_Template)
+* [LaunchPad_Countdown](#LaunchPad_Countdown)
 * [Onshape_Assignment_Template](#Onshape_Assignment_Template)
 
 &nbsp;
@@ -11,8 +11,8 @@
 ## Raspberry_Pi_Assignment_Template
 
 ### Assignment Description
+This assignment is the beginning of learning how to launch a rocket
 
-Write your assignment description here. What is the purpose of this assignment? It should be at least a few sentences.
 
 ### Evidence 
 
@@ -64,3 +64,16 @@ Your readme will have various images and gifs on it. Upload a test image and tes
 ### Test GIF
 
 <img src="https://github.com/rareval48/Engineering_4_Notebook/blob/main/raspberry-pi/200.gif">
+
+## LaunchPad_Countdown
+
+### Assignment Description
+This assignment is the beginning of learning how to launch a rocket
+
+### Evidence
+
+### Code
+
+### Reflection
+
+
