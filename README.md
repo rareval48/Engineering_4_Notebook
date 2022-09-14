@@ -3,8 +3,11 @@
 &nbsp;
 
 ## Table of Contents
-* [LaunchPad_Countdown](#LaunchPad_Countdown)
 * [Onshape_Assignment_Template](#Onshape_Assignment_Template)
+* [LaunchPad_Countdown](#LaunchPad_Countdown)
+* [LaunchPad_Lights](#LaunchPad_Lights)
+* [LaunchPad_Button](#LaunchPad_Button)
+* [LaunchPad_Servo](#LaunchPad_Servo)
 
 &nbsp;
 
@@ -51,29 +54,36 @@ What went wrong / was challenging, how'd you figure it out, and what did you lea
 
 &nbsp;
 
-## Media Test
-
-Your readme will have various images and gifs on it. Upload a test image and test gif to make sure you've got the process figured out. Pick whatever image and gif you want!
-
-### Test Link
-[Hyperlink text](http://www.google.com) 
-
-### Test Image
-<img src="https://github.com/rareval48/Engineering_4_Notebook/blob/main/raspberry-pi/macaca_nigra_self-portrait-3e0070aa19a7fe36e802253048411a38f14a79f8-s1100-c50.jpg" width="400px">
-
-### Test GIF
-
-<img src="https://github.com/rareval48/Engineering_4_Notebook/blob/main/raspberry-pi/200.gif">
-
 ## LaunchPad_Countdown
 
 ### Assignment Description
-This assignment is the beginning of learning how to launch a rocket
+This assignment is the beginning of learning how to launch a rocket and launching a rocket
 
 ### Evidence
+<img src="insert pic/gif here">
 
 ### Code
+[Countdown code](https://github.com/rareval48/Engineering_4_Notebook/blob/main/raspberry-pi/Launch%20Pad(Countdown%201))
 
 ### Reflection
+This one was really easy as I have done countdowns before and have had experience with. But for new people doing this this would be pretty easy as there is plenty of documentation on how to do for statements.
 
+&nbsp;
+
+## LaunchPad_Lights
+
+### Assignment Description
+This assignment is the second assignment where we learn how to launch a rocket.
+
+### Evidence
+<img src="insert pic/gif here">
+
+### Wiring
+<img src="https://user-images.githubusercontent.com/71342195/190179947-5a598c82-52d8-4231-a050-bcbfcbcf1535.png" width="400px">
+
+### Code
+[Lights code](https://github.com/rareval48/Engineering_4_Notebook/blob/main/raspberry-pi/Launch%20Pad%20(Countdown%202))
+
+### Reflection
+This one was also really easy as I have worked with LEDs and resistors before. For the code I just used the for loop for printing the countdown and the while loop for keeping the green led on. This was pretty easy as I have done this before.
 
