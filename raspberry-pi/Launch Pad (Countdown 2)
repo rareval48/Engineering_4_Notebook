@@ -1,4 +1,5 @@
 # type: ignore
+
 import board
 import digitalio
 import time
@@ -12,58 +13,13 @@ led1.direction = digitalio.Direction.OUTPUT
     
 
 for x in range(10, -1, -1):
-    print(x)
+    print (x)
     led.value = True
     time.sleep(1)
     led.value = False
-
-    print(x)
-    led.value = True
     time.sleep(1)
-    led.value = False
 
-    print(x)
-    led.value = True
-    time.sleep(1)
-    led.value = False
+print("LAUNCH")
 
-    print(x)
-    led.value = True
-    time.sleep(1)
-    led.value = False
-
-    print(x)
-    led.value = True
-    time.sleep(1)
-    led.value = False
-
-    print(x)
-    led.value = True
-    time.sleep(1)
-    led.value = False
-
-    print(x)
-    led.value = True
-    time.sleep(1)
-    led.value = False
-
-    print(x)
-    led.value = True
-    time.sleep(1)
-    led.value = False
-
-    print(x)
-    led.value = True
-    time.sleep(1)
-    led.value = False
-
-    print(x)
-    led.value = True
-    time.sleep(1)
-    led.value = False
-
-    print(LAUNCH)
-    led1.value = True
-    
-    
-
+while True:
+    led1.value= True
