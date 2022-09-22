@@ -87,3 +87,21 @@ This assignment is the second assignment where we learn how to launch a rocket.
 ### Reflection
 This one was also really easy as I have worked with LEDs and resistors before. For the code I just used the for loop for printing the countdown and the while loop for keeping the green led on. This was pretty easy as I have done this before.
 
+&nbsp;
+
+## LaunchPad_Button
+
+### Assignment Description
+This assignment is the third part of the project where we cod e a button to start the countdown.
+
+### Evidence
+<img src="insert pic/gif here">
+
+### Wiring
+<img src="https://user-images.githubusercontent.com/71342195/191770569-94029a39-bfe3-435f-b6ec-cf40fbe1a4ba.png" width="400px">
+
+### Code
+[Button code](https://github.com/rareval48/Engineering_4_Notebook/blob/main/raspberry-pi/Launch%20Pad%20(Countdown%203))
+
+### Reflection
+This one was also really easy as I have worked with LEDs and resistors before. For the code I just used the for loop for printing the countdown and the while loop for keeping the green led on. This was pretty easy as I have done this before. 
