@@ -6,7 +6,7 @@ import time
 import pwmio
 from adafruit_motor import servo
 
-pwm = pwmio.PWMOut(board.GP5, duty_cycle=2 ** 15, frequency=50)
+pwm = pwmio.PWMOut(board.GP5, duty_cycle=2 ** 15, frequency=50) 
 my_servo = servo.Servo(pwm)
 
 led = digitalio.DigitalInOut(board.GP3) # tells board the led output
@@ -38,4 +38,4 @@ while True:
             time.sleep(5)
 
         while True: 
-            led.value = True
+            led1.value = False
