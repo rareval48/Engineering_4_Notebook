@@ -76,10 +76,10 @@ This one was really easy as I have done countdowns before and have had experienc
 This assignment is the second assignment where we learn how to launch a rocket.
 
 ### Evidence
-<img src="insert pic/gif here">
+<img src="https://user-images.githubusercontent.com/71342195/191777504-afe64135-e3f7-461b-b42a-a719a557961e.jpg" w
 
 ### Wiring
-<img src="https://user-images.githubusercontent.com/71342195/190179947-5a598c82-52d8-4231-a050-bcbfcbcf1535.png" width="400px">
+<img src="" width="400px">
 
 ### Code
 [Lights code](https://github.com/rareval48/Engineering_4_Notebook/blob/main/raspberry-pi/Launch%20Pad%20(Countdown%202))
@@ -87,3 +87,21 @@ This assignment is the second assignment where we learn how to launch a rocket.
 ### Reflection
 This one was also really easy as I have worked with LEDs and resistors before. For the code I just used the for loop for printing the countdown and the while loop for keeping the green led on. This was pretty easy as I have done this before.
 
+&nbsp;
+
+## LaunchPad_Button
+
+### Assignment Description
+This assignment is the third part of the project where we code a button to start the countdown.
+
+### Evidence
+<img src="insert pic/gif here">
+
+### Wiring
+<img src="https://user-images.githubusercontent.com/71342195/191770569-94029a39-bfe3-435f-b6ec-cf40fbe1a4ba.png" width="400px">
+
+### Code
+[Button code](https://github.com/rareval48/Engineering_4_Notebook/blob/main/raspberry-pi/Launch%20Pad%20(Countdown%203))
+
+### Reflection
+There was a difficult problem with the code, where even though the button wasnt pressed the code would run. So I looked at some other code and saw that I had part of my code outside of the indent, so it would start and finish without thinking about the whether or not it got a signal from the button or not. So once I fixed that and the code started working I was able to start on the fourth part of the project.
