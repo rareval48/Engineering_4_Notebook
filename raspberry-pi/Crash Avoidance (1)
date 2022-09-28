@@ -19,4 +19,4 @@ while True:
     print(f"Y acceleration: {accelerationVals[1]} m/s2")
     print(f"Z acceleration: {accelerationVals[2]} m/s2")
     print("")
-    time.sleep(.25)
+    time.sleep(.20)
