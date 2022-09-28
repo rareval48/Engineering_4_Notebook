@@ -82,4 +82,24 @@ This assignment is the third part of the project where we code a button to start
 [Button code](https://github.com/rareval48/Engineering_4_Notebook/blob/main/raspberry-pi/Launch%20Pad%20(Countdown%203))
 
 ### Reflection
-There was a difficult problem with the code, where even though the button wasnt pressed the code would run. So I looked at some other code and saw that I had part of my code outside of the indent, so it would start and finish without thinking about the whether or not it got a signal from the button or not. So once I fixed that and the code started working I was able to start on the fourth part of the project.
+There was a difficult problem with the code, where even though the button wasnt pressed, the code would run. So I looked at some other code and saw that I had part of my code outside of the indent, so it would start and finish without thinking about the whether or not it got a signal from the button or not. So once I fixed that and the code started working I was able to start on the fourth part of the project.
+
+
+&nbsp;
+
+## LaunchPad_Servo
+
+### Assignment Description
+This assignment is the third part of the project where we code a servo to act like an arm to hold 
+
+### Evidence
+<img src= "https://user-images.githubusercontent.com/71342195/192791995-8391e24e-0b88-4f2c-b284-f53554bd18bb.gif" width="300px">
+
+### Wiring
+<img src="https://user-images.githubusercontent.com/71342195/192788160-dab59f27-1de2-4d1c-9c97-5825dac8361a.png" width="400px">
+
+### Code
+[Servo Code](https://github.com/rareval48/Engineering_4_Notebook/blob/main/raspberry-pi/Launch%20Pad%20(Countdown%204))
+
+### Reflection
+This part of the project was really easy as all i needed to do was add code from a previous project to fit the requirements for this project. The only thing wiring wise that I needed to add was a servo with a ground, 3v, and signal.
