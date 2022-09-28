@@ -9,28 +9,6 @@
 * [LaunchPad_Button](#LaunchPad_Button)
 * [LaunchPad_Servo](#LaunchPad_Servo)
 
-&nbsp;
-
-## Raspberry_Pi_Assignment_Template
-
-### Assignment Description
-This assignment is the beginning of learning how to launch a rocket
-
-
-### Evidence 
-
-Pictures / Gifs of your work should go here. You need to communicate what your thing does. 
-
-### Wiring
-
-This may not be applicable to all assignments. Anything where you wire something up, include the wiring diagram here. The diagram should be clear enough that I can recreate the wiring from scratch. 
-
-### Code
-Give me a link to your code. [Something like this](https://github.com/millerm22/Engineering_4_Notebook/blob/main/Raspberry_Pi/hello_world.py). Don't make me hunt through your folders, give me a nice link to click to take me there! Remember to **COMMENT YOUR CODE** if you want full credit. 
-
-### Reflection
-
-What went wrong / was challenging, how'd you figure it out, and what did you learn from that experience? Your goal for the reflection is to pass on knowledge that will make this assignment better or easier for the next person. Think about your audience for this one, which may be "future you" (when you realize you need some of this code in three months), me, or your college admission committee!
 
 &nbsp;
 
@@ -60,7 +38,7 @@ What went wrong / was challenging, how'd you figure it out, and what did you lea
 This assignment is the beginning of learning how to launch a rocket and launching a rocket
 
 ### Evidence
-<img src="insert pic/gif here">
+<img src="https://user-images.githubusercontent.com/71342195/191979857-57f11e35-6524-4090-b4b2-fb05f40575c9.gif">
 
 ### Code
 [Countdown code](https://github.com/rareval48/Engineering_4_Notebook/blob/main/raspberry-pi/Launch%20Pad(Countdown%201))
@@ -76,10 +54,10 @@ This one was really easy as I have done countdowns before and have had experienc
 This assignment is the second assignment where we learn how to launch a rocket.
 
 ### Evidence
-<img src="https://user-images.githubusercontent.com/71342195/191777504-afe64135-e3f7-461b-b42a-a719a557961e.jpg" w
+<img src="https://user-images.githubusercontent.com/71342195/191979306-15a34399-91f9-4f12-94d7-251b8c83952a.gif">
 
 ### Wiring
-<img src="" width="400px">
+<img src= "https://user-images.githubusercontent.com/71342195/191981469-f6e085e8-9483-4ed4-9cf3-448078246d36.png" width="400px">
 
 ### Code
 [Lights code](https://github.com/rareval48/Engineering_4_Notebook/blob/main/raspberry-pi/Launch%20Pad%20(Countdown%202))
@@ -95,7 +73,7 @@ This one was also really easy as I have worked with LEDs and resistors before. F
 This assignment is the third part of the project where we code a button to start the countdown.
 
 ### Evidence
-<img src="insert pic/gif here">
+<img src= "https://user-images.githubusercontent.com/71342195/191984808-e3822249-5278-432b-bba5-dfd23dafd961.gif" width="300px">
 
 ### Wiring
 <img src="https://user-images.githubusercontent.com/71342195/191770569-94029a39-bfe3-435f-b6ec-cf40fbe1a4ba.png" width="400px">
