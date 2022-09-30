@@ -3,11 +3,15 @@
 &nbsp;
 
 ## Table of Contents
+### Launchpad Assignments
+
 * [Onshape_Assignment_Template](#Onshape_Assignment_Template)
 * [LaunchPad_Countdown](#LaunchPad_Countdown)
 * [LaunchPad_Lights](#LaunchPad_Lights)
 * [LaunchPad_Button](#LaunchPad_Button)
 * [LaunchPad_Servo](#LaunchPad_Servo)
+### Crash Avoidance Asssignments
+* [Crash_Avoidance1](#Crash_Avoidance1)
 
 
 &nbsp;
@@ -94,6 +98,45 @@ This assignment is the third part of the project where we code a servo to act li
 
 ### Evidence
 <img src= "https://user-images.githubusercontent.com/71342195/192791995-8391e24e-0b88-4f2c-b284-f53554bd18bb.gif" width="300px">
+
+### Wiring
+<img src="https://user-images.githubusercontent.com/71342195/192788160-dab59f27-1de2-4d1c-9c97-5825dac8361a.png" width="400px">
+
+### Code
+[Servo Code](https://github.com/rareval48/Engineering_4_Notebook/blob/main/raspberry-pi/Launch%20Pad%20(Countdown%204))
+
+### Reflection
+This part of the project was really easy as all i needed to do was add code from a previous project to fit the requirements for this project. The only thing wiring wise that I needed to add was a servo with a ground, 3v, and signal.
+
+&nbsp;
+
+## Crash_Avoidance1
+
+### Assignment Description
+This assignment is the third part of the project where we code a servo to act like an arm to hold 
+
+### Evidence
+<img src= "https://user-images.githubusercontent.com/71342195/192802773-dcf936b9-adac-4e3b-a669-3b84389d0a41.gif" width="300px">
+
+### Wiring
+<img src="https://user-images.githubusercontent.com/71342195/192805739-1c262c40-3af5-43ac-bc5f-15ca95d6db83.png" width="400px">
+
+### Code
+[Servo Code](https://github.com/rareval48/Engineering_4_Notebook/blob/main/raspberry-pi/Crash%20Avoidance%20(1))
+
+### Reflection
+This assignment was pretty easy as I got most of the important imformation from Mr. Miller. Make sure the SDA and SDL pins are conected on the same I2C port.
+
+
+&nbsp;
+
+## LaunchPad_Servo
+
+### Assignment Description
+This assignment is the third part of the project where we code a servo to act like an arm to hold 
+
+### Evidence
+<img src= "" width="300px">
 
 ### Wiring
 <img src="https://user-images.githubusercontent.com/71342195/192788160-dab59f27-1de2-4d1c-9c97-5825dac8361a.png" width="400px">
