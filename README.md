@@ -12,6 +12,9 @@
 * [LaunchPad_Servo](#LaunchPad_Servo)
 ### Crash Avoidance Asssignments
 * [Crash_Avoidance1](#Crash_Avoidance1)
+* [Crash_Avoidance2](#Crash_Avoidance2)
+* [Crash_Avoidance3](#Crash_Avoidance3)
+
 
 
 &nbsp;
@@ -113,7 +116,7 @@ This part of the project was really easy as all i needed to do was add code from
 ## Crash_Avoidance1
 
 ### Assignment Description
-This assignment is the third part of the project where we code a servo to act like an arm to hold 
+This assignment is where we code a XYZ coordinate calculator that tells us our altitude.
 
 ### Evidence
 <img src= "https://user-images.githubusercontent.com/71342195/192802773-dcf936b9-adac-4e3b-a669-3b84389d0a41.gif" width="300px">
@@ -122,7 +125,7 @@ This assignment is the third part of the project where we code a servo to act li
 <img src="https://user-images.githubusercontent.com/71342195/192805739-1c262c40-3af5-43ac-bc5f-15ca95d6db83.png" width="400px">
 
 ### Code
-[Servo Code](https://github.com/rareval48/Engineering_4_Notebook/blob/main/raspberry-pi/Crash%20Avoidance%20(1))
+[Crash Avoidance Code](https://github.com/rareval48/Engineering_4_Notebook/blob/main/raspberry-pi/Crash%20Avoidance%20(1))
 
 ### Reflection
 This assignment was pretty easy as I got most of the important imformation from Mr. Miller. Make sure the SDA and SDL pins are conected on the same I2C port.
@@ -130,19 +133,19 @@ This assignment was pretty easy as I got most of the important imformation from 
 
 &nbsp;
 
-## LaunchPad_Servo
+## Crash_Avoidance2
 
 ### Assignment Description
-This assignment is the third part of the project where we code a servo to act like an arm to hold 
+This assignment is where we add a LED to the previous code to show us when the Z coord goes below or equal to one.
 
 ### Evidence
-<img src= "" width="300px">
+<img src= "https://user-images.githubusercontent.com/71342195/193294584-e68d327f-a342-4fcc-b3d2-945ed185c573.gif" width="300px">
 
 ### Wiring
 <img src="https://user-images.githubusercontent.com/71342195/192788160-dab59f27-1de2-4d1c-9c97-5825dac8361a.png" width="400px">
 
 ### Code
-[Servo Code](https://github.com/rareval48/Engineering_4_Notebook/blob/main/raspberry-pi/Launch%20Pad%20(Countdown%204))
+[Crash Avoidance 2 Code](https://github.com/rareval48/Engineering_4_Notebook/blob/main/raspberry-pi/Crash%20Avoidance%20(2))
 
 ### Reflection
 This part of the project was really easy as all i needed to do was add code from a previous project to fit the requirements for this project. The only thing wiring wise that I needed to add was a servo with a ground, 3v, and signal.
