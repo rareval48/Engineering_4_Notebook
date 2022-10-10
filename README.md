@@ -149,3 +149,22 @@ This assignment is where we add a LED to the previous code to show us when the Z
 
 ### Reflection
 This part of the project was really easy as all i needed to do was add code from a previous project to fit the requirements for this project. The only thing wiring wise that I needed to add was a servo with a ground, 3v, and signal.
+
+&nbsp;
+
+## Crash_Avoidance3
+
+### Assignment Description
+This assignment is where we add a LED to the previous code to show us when the Z coord goes below or equal to one.
+
+### Evidence
+<img src= "https://user-images.githubusercontent.com/71342195/194888688-aa3dc980-5807-497f-90ff-92c69761ee77.gif" width="300px">
+
+### Wiring
+<img src="https://user-images.githubusercontent.com/71342195/194892308-a924fb89-952d-477f-9e77-214bca31d0b7.png" width="400px">
+
+### Code
+[Crash Avoidance 3 Code](https://github.com/rareval48/Engineering_4_Notebook/blob/main/raspberry-pi/Crash%20Avoidance%20(3))
+
+### Reflection
+This part of the project was pretty easy but the only thing that I needed to do was redo the libraies as I had extra libraries in my lib that were un-needed and took up alot of space.
