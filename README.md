@@ -155,7 +155,7 @@ This part of the project was really easy as all i needed to do was add code from
 ## Crash_Avoidance3
 
 ### Assignment Description
-This assignment is where we add a LED to the previous code to show us when the Z coord goes below or equal to one.
+This assignment is where we add a LCD screen to display the XYZ coords of the gyro.
 
 ### Evidence
 <img src= "https://user-images.githubusercontent.com/71342195/194888688-aa3dc980-5807-497f-90ff-92c69761ee77.gif" width="300px">
@@ -167,4 +167,4 @@ This assignment is where we add a LED to the previous code to show us when the Z
 [Crash Avoidance 3 Code](https://github.com/rareval48/Engineering_4_Notebook/blob/main/raspberry-pi/Crash%20Avoidance%20(3))
 
 ### Reflection
-This part of the project was pretty easy but the only thing that I needed to do was redo the libraies as I had extra libraries in my lib that were un-needed and took up alot of space.
+Getting the LCD screen to work was problably the hardest theing to do, as the code didnt like the device address foir some reason so I had to go back multiple times to make sure that I actually got the right address. Once I fixed that another slew of problems arrived, including code and wiring problems. But, after I fixed them all the code finally worked.
