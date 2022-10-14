@@ -177,13 +177,13 @@ Getting the LCD screen to work was problably the hardest theing to do, as the co
 ## Landing_Area1
 
 ### Assignment Description
-This assignment is calcualting the area of theree points in a traingle.
+This assignment is calcualting the area of theree points in a triangle.
 
 ### Evidence
 There isnt any evidence, you just have to trust me.
 
 ### Wiring
-Now wiring needed
+No wiring needed
 
 ### Code
 [Landing Area 1 Code](https://github.com/rareval48/Engineering_4_Notebook/blob/main/raspberry-pi/Landing%20Area%20Pt1)
