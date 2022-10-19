@@ -196,10 +196,10 @@ This part of the project was pretty easy as there wasnt much to do except code. 
 ## Landing_Area2
 
 ### Assignment Description
-This assignment is where we add a LCD screen to display the XYZ coords of the gyro.
+This assignment is using a LCD to plot points onto a graph.
 
 ### Evidence
-<img src= "https://user-images.githubusercontent.com/71342195/196705738-b30fb28e-29d3-46a5-b589-a17ff173174f.gif" width="300px">
+<img src= "https://user-images.githubusercontent.com/71342195/196706419-cd115f15-ca49-4b58-a1c8-de96ff639ab6.gif" width="300px">
 
 ### Wiring
 No wiring needed for this assignment.
@@ -208,4 +208,4 @@ No wiring needed for this assignment.
 [Landing Area 2 Code](https://github.com/rareval48/Engineering_4_Notebook/blob/main/raspberry-pi/Landing%20Area%20Pt%202)
 
 ### Reflection
-
+This part was relativley easy as I just needed to add code for previous projects such as Landing Area 1 and Crash Avoidance 3. I added code from those previous projects and some code that Mr. Miller gave me in the assinment. I also borrowed code from Paul as help for the first part of the project. [Paul's Github](https://github.com/pschake34/Engineering_4_Notebook)
