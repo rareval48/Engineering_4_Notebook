@@ -202,7 +202,7 @@ This assignment is using a LCD to plot points onto a graph.
 <img src= "https://user-images.githubusercontent.com/71342195/196706419-cd115f15-ca49-4b58-a1c8-de96ff639ab6.gif" width="300px">
 
 ### Wiring
-No wiring needed for this assignment.
+<img src= "https://user-images.githubusercontent.com/71342195/196712731-00a554df-b1c7-4bba-882c-373d0dce3b2d.png" width="400px">
 
 ### Code
 [Landing Area 2 Code](https://github.com/rareval48/Engineering_4_Notebook/blob/main/raspberry-pi/Landing%20Area%20Pt%202)
