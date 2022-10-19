@@ -16,6 +16,7 @@
 * [Crash_Avoidance3](#Crash_Avoidance3)
 ### Landing Area Assignments
 * [Landing_Area1](#Landing_Area1)
+* [Landing_Area1](#Landing_Area1)
 
 
 
@@ -155,6 +156,44 @@ This part of the project was really easy as all i needed to do was add code from
 &nbsp;
 
 ## Crash_Avoidance3
+
+### Assignment Description
+This assignment is where we add a LCD screen to display the XYZ coords of the gyro.
+
+### Evidence
+<img src= "https://user-images.githubusercontent.com/71342195/194888688-aa3dc980-5807-497f-90ff-92c69761ee77.gif" width="300px">
+
+### Wiring
+<img src="https://user-images.githubusercontent.com/71342195/194892308-a924fb89-952d-477f-9e77-214bca31d0b7.png" width="400px">
+
+### Code
+[Crash Avoidance 3 Code](https://github.com/rareval48/Engineering_4_Notebook/blob/main/raspberry-pi/Crash%20Avoidance%20(3))
+
+### Reflection
+Getting the LCD screen to work was problably the hardest theing to do, as the code didnt like the device address foir some reason so I had to go back multiple times to make sure that I actually got the right address. Once I fixed that another slew of problems arrived, including code and wiring problems. But, after I fixed them all the code finally worked.
+
+&nbsp;
+
+## Landing_Area1
+
+### Assignment Description
+This assignment is calcualting the area of theree points in a triangle.
+
+### Evidence
+There isnt any evidence, you just have to trust me.
+
+### Wiring
+No wiring needed
+
+### Code
+[Landing Area 1 Code](https://github.com/rareval48/Engineering_4_Notebook/blob/main/raspberry-pi/Landing%20Area%20Pt1)
+
+### Reflection
+This part of the project was pretty easy as there wasnt much to do except code. I already had the resources to find the code and use it all I had to do was copy and paste code.
+
+&nbsp;
+
+## Landing_Area2
 
 ### Assignment Description
 This assignment is where we add a LCD screen to display the XYZ coords of the gyro.
