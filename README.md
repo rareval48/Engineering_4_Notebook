@@ -16,7 +16,10 @@
 * [Crash_Avoidance3](#Crash_Avoidance3)
 ### Landing Area Assignments
 * [Landing_Area1](#Landing_Area1)
-* [Landing_Area1](#Landing_Area1)
+* [Landing_Area2](#Landing_Area2)
+### Morse Code Assignments
+* [Morse_Code1](#Morse_Code1)
+* [Morse_Code2](#Morse_Code2)
 
 
 
@@ -196,16 +199,54 @@ This part of the project was pretty easy as there wasnt much to do except code. 
 ## Landing_Area2
 
 ### Assignment Description
-This assignment is where we add a LCD screen to display the XYZ coords of the gyro.
+This assignment is using a LCD to plot points onto a graph.
 
 ### Evidence
-<img src= "https://user-images.githubusercontent.com/71342195/194888688-aa3dc980-5807-497f-90ff-92c69761ee77.gif" width="300px">
+<img src= "https://user-images.githubusercontent.com/71342195/196706419-cd115f15-ca49-4b58-a1c8-de96ff639ab6.gif" width="300px">
 
 ### Wiring
-<img src="https://user-images.githubusercontent.com/71342195/194892308-a924fb89-952d-477f-9e77-214bca31d0b7.png" width="400px">
+<img src= "https://user-images.githubusercontent.com/71342195/196712731-00a554df-b1c7-4bba-882c-373d0dce3b2d.png" width="400px">
 
 ### Code
-[Crash Avoidance 3 Code](https://github.com/rareval48/Engineering_4_Notebook/blob/main/raspberry-pi/Crash%20Avoidance%20(3))
+[Landing Area 2 Code](https://github.com/rareval48/Engineering_4_Notebook/blob/main/raspberry-pi/Landing%20Area%20Pt%202)
 
 ### Reflection
-Getting the LCD screen to work was problably the hardest theing to do, as the code didnt like the device address foir some reason so I had to go back multiple times to make sure that I actually got the right address. Once I fixed that another slew of problems arrived, including code and wiring problems. But, after I fixed them all the code finally worked.
+This part was relativley easy as I just needed to add code for previous projects such as Landing Area 1 and Crash Avoidance 3. I added code from those previous projects and some code that Mr. Miller gave me in the assinment. I also borrowed code from Paul as help for the first part of the project. [Paul's Github](https://github.com/pschake34/Engineering_4_Notebook)
+
+&nbsp;
+
+## Morse_Code1
+
+### Assignment Description
+
+
+### Evidence
+<img src= "" width="300px">
+
+### Wiring
+<img src= "" width="400px">
+
+### Code
+[Morse Code 1 Code]()
+
+### Reflection
+
+
+&nbsp;
+
+## Morse_Code2
+
+### Assignment Description
+
+
+### Evidence
+<img src= "" width="300px">
+
+### Wiring
+<img src= "" width="400px">
+
+### Code
+[Morse Code 2 Code]()
+
+### Reflection
+
