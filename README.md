@@ -218,19 +218,19 @@ This part was relativley easy as I just needed to add code for previous projects
 ## Morse_Code1
 
 ### Assignment Description
-
+This assignment is about creating and using code to translate letters and numbers to Morse Code.
 
 ### Evidence
-<img src= "" width="300px">
+<img src= "https://user-images.githubusercontent.com/71342195/197546952-d9d41208-e9e0-4e00-9585-681d24cdaa32.gif" width="300px">
 
 ### Wiring
-<img src= "" width="400px">
+No Wiring Needed
 
 ### Code
-[Morse Code 1 Code]()
+[Morse Code 1 Code](https://github.com/rareval48/Engineering_4_Notebook/blob/main/raspberry-pi/Morse%20Code%201)
 
 ### Reflection
-
+This assignemnt was pretty easy as there wasnt much do besides making sure that the code actually worked. As the resources and the dictionary for the assignemnt was given to me.
 
 &nbsp;
 
