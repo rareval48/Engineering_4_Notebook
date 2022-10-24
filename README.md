@@ -230,7 +230,7 @@ No Wiring Needed
 [Morse Code 1 Code](https://github.com/rareval48/Engineering_4_Notebook/blob/main/raspberry-pi/Morse%20Code%201)
 
 ### Reflection
-This assignemnt was pretty easy as there wasnt much do besides making sure that the code actually worked. As the resources and the dictionary for the assignemnt was given to me.
+This assignemnt was pretty easy as there wasnt much do besides making sure that the code actually worked. As the resources and the dictionary for the assignment was given to me.
 
 &nbsp;
 
