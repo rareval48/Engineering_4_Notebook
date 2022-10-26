@@ -237,16 +237,16 @@ This assignemnt was pretty easy as there wasnt much do besides making sure that 
 ## Morse_Code2
 
 ### Assignment Description
-
+This assignment was about blinking an LED using morse code.
 
 ### Evidence
-<img src= "" width="300px">
+<img src= "https://user-images.githubusercontent.com/71342195/198037631-00e58cbb-3d59-4363-955c-0af9b408f87c.gif" width="300px">
 
 ### Wiring
-<img src= "" width="400px">
+<img src= "https://user-images.githubusercontent.com/71342195/198040996-7da49e87-df45-469c-9ab4-6b2536fea4d6.png" width="400px">
 
 ### Code
-[Morse Code 2 Code]()
+[Morse Code 2 Code](https://github.com/rareval48/Engineering_4_Notebook/blob/main/raspberry-pi/Morse%20Code%202)
 
 ### Reflection
-
+This assignment was reletivaly easy as I just had to use an if/elif statement to tell the led when to blink and when to sleep. Depending on the different dots and dashes it would sleep for longer or blink for longer. There were also different sleep times for spaces and inbetween letters shown as "/". 
