@@ -38,21 +38,21 @@ while True:
         if char == " ":  # adds a / between words
             translating += "/"
         else:
-            translating += MORSE_CODE[char.upper()] + " " # Trasnslate a leeter to morse code
+            translating += MORSE_CODE[char.upper()] + " " # Translate a letter to morse code
     print(translating + "\n\n")
 
     for char in translating:
         if char == ".":
             led.value = True
-            time.sleep(dot_time)
+            time.sleep(dot_time)  # sleep when dots print
             led.value = False
             time.sleep(between_taps)
         elif char == "-":
             led.value = True
-            time.sleep(dash_time)
+            time.sleep(dash_time) # sleep when dashes print
             led.value = False
             time.sleep(between_taps)
         elif char == " ":
             time.sleep(between_letters)
         elif char == "/":
-            time.sleep(between_words - between_letters)
+            time.sleep(between_words - between_letters) # adds a sleep between words
