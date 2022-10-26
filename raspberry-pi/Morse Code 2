@@ -1,0 +1,58 @@
+import board
+import time
+import digitalio
+
+MORSE_CODE = { 'A':'.-', 'B':'-...',
+    'C':'-.-.', 'D':'-..', 'E':'.',
+    'F':'..-.', 'G':'--.', 'H':'....',
+    'I':'..', 'J':'.---', 'K':'-.-',
+    'L':'.-..', 'M':'--', 'N':'-.',
+    'O':'---', 'P':'.--.', 'Q':'--.-',
+    'R':'.-.', 'S':'...', 'T':'-',
+    'U':'..-', 'V':'...-', 'W':'.--',
+    'X':'-..-', 'Y':'-.--', 'Z':'--..',
+    '1':'.----', '2':'..---', '3':'...--',
+    '4':'....-', '5':'.....', '6':'-....',
+    '7':'--...', '8':'---..', '9':'----.',
+    '0':'-----', ', ':'--..--', '.':'.-.-.-',
+    '?':'..--..', '/':'-..-.', '-':'-....-',
+    '(':'-.--.', ')':'-.--.-'}
+
+modifier = 0.25
+dot_time = 1*modifier
+dash_time = 3*modifier
+between_taps = 1*modifier
+between_letters = 3*modifier
+between_words = 7*modifier
+
+led = digitalio.DigitalInOut(board.GP0)
+led.direction = digitalio.Direction.OUTPUT
+
+
+while True:
+    translate = input("Translate to Morse Code: ")
+    if translate == "-q": # Quit
+        break
+    translating = ""
+    for char in translate:
+        if char == " ":  # adds a / between words
+            translating += "/"
+        else:
+            translating += MORSE_CODE[char.upper()] + " " # Trasnslate a leeter to morse code
+    print(translating + "\n\n")
+
+    for char in translating:
+        if char == ".":
+            led.value = True
+            time.sleep(dot_time)
+            led.value = False
+            time.sleep(between_taps)
+        elif char == "-":
+            led.value = True
+            time.sleep(dash_time)
+            led.value = False
+            time.sleep(between_taps)
+        elif char == " ":
+            time.sleep(between_letters)
+        elif char == "/":
+            time.sleep(between_words - between_letters)
