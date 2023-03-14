@@ -20,6 +20,13 @@
 ### Morse Code Assignments
 * [Morse_Code1](#Morse_Code1)
 * [Morse_Code2](#Morse_Code2)
+### FEA Team Assignments
+* [FEA_Part1,2,3](#FEA_Part1,2,3)
+### Onshape Assignments
+* [Ring_and_Spinner](#Ring_and_Spinner)
+* [Key_and_Prop](#Key_and_Prop)
+* [Assembling_The_Launcher](#Assembling_The_Launcher)
+
 
 
 
@@ -242,3 +249,66 @@ This assignment was about blinking an LED using morse code.
 
 ### Reflection
 This assignment was reletivaly easy as I just had to use an if/elif statement to tell the led when to blink and when to sleep. Depending on the different dots and dashes it would sleep for longer or blink for longer. There were also different sleep times for spaces and inbetween letters shown as "/". 
+
+&nbsp;
+
+## FEA_Part1,2,3
+
+## Github Link
+We made a seperate github link for this assignment
+
+https://github.com/rareval48/FEA-Team-Beam-Design
+
+&nbsp;
+
+## Ring_and_Spinner
+
+### Assignment Description
+
+### Part Link
+https://cvilleschools.onshape.com/documents/c10a64adb05a97594b5f00ac/w/d896d0d5707f299028cb3778/e/33b134c2eb2db36c090f1224
+### Part Image
+
+<img src="https://user-images.githubusercontent.com/71342195/225023152-8a7734e0-3247-4c6e-a747-7bad1439223a.png" width="400px">
+
+### Reflection
+This one was the easiest part as there wasnt much to do besides use the given dimensions
+&nbsp;
+
+## Key_and_Prop
+
+### Assignent Description
+
+### Part Link
+https://cvilleschools.onshape.com/documents/c10a64adb05a97594b5f00ac/w/d896d0d5707f299028cb3778/e/33b134c2eb2db36c090f1224
+
+### Part Image
+I do not have a image for the key and prop
+
+### Reflection
+I wasnt the one who completed this assignment I just did part A
+
+&nbsp;
+
+## Assembling_the_Launcher
+
+### Assignment Description
+
+### Part Link
+https://cvilleschools.onshape.com/documents/c10a64adb05a97594b5f00ac/w/d896d0d5707f299028cb3778/e/33b134c2eb2db36c090f1224###
+
+### Part Image
+I do not have an image for the key and prop
+
+### Reflection
+I wanst able to fully assemble this assignment
+
+&nbsp;
+
+
+
+
+
+
+
+
