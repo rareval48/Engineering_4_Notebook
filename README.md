@@ -21,7 +21,7 @@
 * [Morse_Code1](#Morse_Code1)
 * [Morse_Code2](#Morse_Code2)
 ### FEA Team Assignments
-* [FEA_Part1,2,3](#FEA_Part1,2,3)
+* [FEA_Parts](#FEA_Parts)
 ### Onshape Assignments
 * [Ring_and_Spinner](#Ring_and_Spinner)
 * [Key_and_Prop](#Key_and_Prop)
@@ -252,7 +252,7 @@ This assignment was reletivaly easy as I just had to use an if/elif statement to
 
 &nbsp;
 
-## FEA_Part1,2,3
+## FEA_Parts
 
 ## Github Link
 We made a seperate github link for this assignment
