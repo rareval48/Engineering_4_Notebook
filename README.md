@@ -303,7 +303,7 @@ https://cvilleschools.onshape.com/documents/c10a64adb05a97594b5f00ac/w/d896d0d57
 I do not have an image for the key and prop
 
 ### Reflection
-I wanst able to fully assemble this assignment
+I wasnt able to fully assemble this assignment
 
 &nbsp;
 
